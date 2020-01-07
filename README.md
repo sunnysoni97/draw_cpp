@@ -1,13 +1,21 @@
 
 ---
 
-This file pertains to basic steps for running the program on your own installation.
+#### This is the reader's manual for using and editing this software project as you may like!
 
 ---
 
-**Compiler needed** : Borland's Turbo C++
+## About the Project
 
-**Steps for Execution** : 
+### uDRaw 
+
+It is a customised language interpreter (with its own syntax and terminology) to be used as an educational drawing and programming tool for children. The complete application has been designed using the legacy "conio.h" in C++ environment and compiled using Borland's TurboC++ compiler. It supports a large variety of editing functions on canvas as well as the brushes and options for saving and loading data from disk.
+
+---
+
+**Compiler needed :** Borland's Turbo C++
+
+### Steps for Execution : 
 1. Unload the files in bin folder of the compiler directory.
 2. Compile and run MAIN.cpp.
 
